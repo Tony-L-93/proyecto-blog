@@ -41,6 +41,11 @@
     "jwtSecretKey": "NWM4NzczOWRiODg5YzFjMTMwYzFkZjI5Yjg5MzJlNWYyZjU3N2Q5MjVlMjYzNDRlYTJkZjgwOTUyMjdlMjZjZTk1NzM1MGJlYTg5ZGU5NGMzNTg1MjA0MGFmZTQ0M2UxZTVkNDFhZDc2OGE4ZTY4MmYyYWMyZDhkMjEyNjVkNGY=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["es", "en"]
+    "languages": ["es", "en"],
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1621610315000,
+    "herokuAppName": "jhipster-blog-demo",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "1.8"
   }
 }
